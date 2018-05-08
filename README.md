@@ -1,4 +1,4 @@
-# Program-AB
+# MARI Chatbot
 
 Automatically exported from https://code.google.com/p/program-ab
 
