@@ -172,7 +172,7 @@
     </category>
     <category>
         <pattern>WEIGHT</pattern>
-        <template>I weigh 121 pounds.<template>
+        <template>I weigh 121 pounds.</template>
     </category>
     <category>
         <pattern>ALIVE</pattern>
