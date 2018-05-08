@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:Mari
+email:callmom-info@pandorabots.com
+gender:female
+botmaster:Matt Hocker
+organization:ALICE AI Foundation
+version:0.0.4
+
